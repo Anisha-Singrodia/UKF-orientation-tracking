@@ -24,3 +24,6 @@ Results:
       <td align = "center">vicon_yaw_vs_pred</td>
   </tr>
 </table>
+
+## Reference
+> E. Kraft, "A quaternion-based unscented Kalman filter for orientation tracking," Sixth International Conference of Information Fusion, 2003. Proceedings of the, Cairns, Queensland, Australia, 2003, pp. 47-54, doi: 10.1109/ICIF.2003.177425.
