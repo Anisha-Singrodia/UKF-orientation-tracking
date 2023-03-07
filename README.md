@@ -7,7 +7,7 @@ and an accelerometer (to measure accelerations in body frame) as well as data fr
 We treat the Vicon data as the “ground-truth”. We developed the UKF for the IMU data and used the Vicon data for 
 calibration and tuning of this filter.
 
-The IMU datasets are present in the imu folder. 
+The IMU datasets are present in the imu folder and vicon dataset is present in vicon folder. 
 The estimate_rot.py tracks the orientation using the IMU data and UKF.
 
 Results:
