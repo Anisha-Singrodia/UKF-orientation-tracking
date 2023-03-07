@@ -12,6 +12,15 @@ The estimate_rot.py tracks the orientation using the IMU data and UKF.
 
 Results:
 
-![vicon_pitch_vs_pred](https://user-images.githubusercontent.com/114776023/223570818-b444b103-8ab7-471f-83a6-bc00c0d5b3d4.png)
-![vicon_roll_vs_pred](https://user-images.githubusercontent.com/114776023/223570821-cccd8954-131f-4ba1-b16e-fda97647b3c1.png)
-![vicon_yaw_vs_pred](https://user-images.githubusercontent.com/114776023/223570823-4c0f97f7-c38b-4afe-8f9c-d6abe7a0a1a0.png)
+<table>
+  <tr>
+      <td align = "center"> <img src="https://user-images.githubusercontent.com/114776023/223570818-b444b103-8ab7-471f-83a6-bc00c0d5b3d4.png"> </td>
+      <td align = "center"> <img src="https://user-images.githubusercontent.com/114776023/223570821-cccd8954-131f-4ba1-b16e-fda97647b3c1.png"> </td>
+      <td align = "center"> <img src="https://user-images.githubusercontent.com/114776023/223570823-4c0f97f7-c38b-4afe-8f9c-d6abe7a0a1a0.png"> </td>
+  </tr>
+  <tr>
+      <td align = "center">vicon_pitch_vs_pred</td>
+      <td align = "center">vicon_roll_vs_pred</td>
+      <td align = "center">vicon_yaw_vs_pred</td>
+  </tr>
+</table>
